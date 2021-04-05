@@ -1,4 +1,4 @@
-title: Hariom Blog - Info Sec, CTF & Hacking
+title: Hariom's Blog
 author: hariomch
 email: hariom4694@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
@@ -11,7 +11,7 @@ sass:
   sass_dir: _sass
 plainwhite:
   name: Hariom
-  tagline: Ethical Hacker and Penetration Tester
+  tagline: Penetration Tester
   date_format: "%b %-d, %Y"
   sitemap: true # set to true to generate sitemap.xml content
 
@@ -19,7 +19,7 @@ plainwhite:
   social_links:
     twitter: HariChaturved
     github:  hariomch
-    linkedIn: /in/hariom-chaturvedi
+    linkedIn: in/hariom-chaturvedi
     # rss: /feed.xml
     # dribbble: jekyll
     # facebook: jekyll
