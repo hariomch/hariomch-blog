@@ -15,7 +15,7 @@ The cyber kill chain is a series of steps that trace the stages of a cyberattack
 ## 7 Steps of Cyber Kill Chain
 Lockheed Martin’s cyber kill chain breaks down a cyberattack into 7 distinct steps: 
 
-<img src = "../assets/images/cyber_kill_chain.png">
+<img src = "../../../assets/images/cyber_kill_chain.png">
 
 ### 1. Reconnaissance
 The observation stage: attackers typically assess the situation from the outside-in, in order to identify both targets and tactics for the attack, it’s the preliminary step of an attack. During reconnaissance, an attacker is seeking information that might reveal vulnerabilities and weak points in the system. Firewalls, intrusion prevention systems, perimeter security, even social media accounts – get ID’d and investigated. Reconnaissance tools scan corporate networks to search for points of entry and vulnerabilities to be exploited.
