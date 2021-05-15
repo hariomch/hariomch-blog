@@ -13,7 +13,7 @@ Log analysis is a valuable asset when it comes to IT system management and monit
 
 This post covers what log analysis is, its importance, tools and how to perform log analysis.
 
-<div class="tenor-gif-embed" data-postid="5344094" data-share-method="host" data-width="100%" data-aspect-ratio="1.7913669064748199"><a href="https://tenor.com/view/gravity-falls-dipper-start-player-gif-5344094"></a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="5344094" data-share-method="host" data-width="40%" data-aspect-ratio="1.7913669064748199"><a href="https://tenor.com/view/gravity-falls-dipper-start-player-gif-5344094"></a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 
